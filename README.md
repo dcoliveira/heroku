@@ -113,3 +113,5 @@ Remember to grab the address of the app in this point
 
 ### Changing a specific configuration
 * heroku config:set DEBUG=True
+
+Por: Gregory Pacheco
