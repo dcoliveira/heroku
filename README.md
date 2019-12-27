@@ -1,0 +1,2 @@
+# heroku
+configuração mínima 
