@@ -1,2 +1,2 @@
 # heroku
-configuração mínima 
+configuração mínima para  Django
